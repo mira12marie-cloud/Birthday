@@ -15,7 +15,7 @@ Never forget how special you are and how much you mean to me.
 
 Happy Birthday again.
 
-I love you forever. 🤍`;
+F4L. 🤍`;
 
 btn.onclick = () => {
 
